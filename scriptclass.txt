@@ -1,0 +1,4 @@
+#!/bin/bash  # we call as shonam
+
+# Commends
+1 to check 
